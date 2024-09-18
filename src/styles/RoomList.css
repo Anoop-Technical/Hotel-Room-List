@@ -1,0 +1,16 @@
+.room-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.room-card {
+  width: 30%;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+img.room-image {
+  max-width: 100%;
+  width: 300px;
+}
